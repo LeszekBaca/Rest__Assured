@@ -1,0 +1,3 @@
+1. To build the project, you can use the command: "mvn test" in the Intellij console
+2. To run the tests, use the arrow in the class with the tests
+3. To see the test results, use the following command "allure serve"
